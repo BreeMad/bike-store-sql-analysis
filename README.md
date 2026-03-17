@@ -22,6 +22,16 @@ Answering these questions helps improve **inventory planning, marketing strategy
 
 ---
 
+## Database Schema
+
+The relational structure of the bike store database is shown below.
+
+![Database Schema](Images/database_schema.png)
+
+The schema includes transactional tables for **orders and order items**, dimension tables for **customers, products, brands, categories, and stores**, and operational tables for **staff and inventory management**.
+
+---
+
 ## Project Workflow
 
 ### 1. Database Design
@@ -125,6 +135,7 @@ bike-store-sales-analysis-mysql
 ├── 02_data_cleaning.sql
 ├── 03_analysis.sql
 └── images
+    ├── database_schema.png
     ├── monthly_revenue_chart.png
     ├── store_revenue.png
     ├── top_customers.png
