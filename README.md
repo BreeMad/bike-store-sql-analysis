@@ -86,19 +86,19 @@ The project explores several business analytics areas:
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue](images/monthly_revenue_chart.png)
+![Monthly Revenue](Images/monthly_revenue_chart.png)
 
 ### Store Revenue Ranking
 
-![Store Revenue](images/store_revenue.png)
+![Store Revenue](Images/store_revenue.png)
 
 ### Top Customers by Spending
 
-![Top Customers](images/top_customers.png)
+![Top Customers](Images/top_customers.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](Images/customer_segmentation.png)
 
 ---
 
