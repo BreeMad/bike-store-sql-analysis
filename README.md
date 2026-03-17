@@ -84,15 +84,21 @@ The project explores several business analytics areas:
 
 ## Example Insights
 
-Examples of insights generated from the SQL analysis include:
+### Monthly Revenue Trend
 
-- Identification of **top-performing stores by revenue**
-- Detection of **high-value customers driving significant revenue**
-- Identification of **best-selling product categories**
-- Discovery of **shipping delays across stores or staff members**
-- Detection of **products with critically low inventory levels**
+![Monthly Revenue](images/monthly_revenue_chart.png)
 
-These insights help inform **operational and strategic decision-making**.
+### Store Revenue Ranking
+
+![Store Revenue](images/store_revenue.png)
+
+### Top Customers by Spending
+
+![Top Customers](images/top_customers.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](images/customer_segmentation.png)
 
 ---
 
@@ -134,6 +140,17 @@ bike-store-sales-analysis-mysql
 | `01_schema.sql` | Database schema and table creation |
 | `02_data_cleaning.sql` | Data validation and cleaning queries |
 | `03_analysis.sql` | Business analysis queries |
+
+---
+
+## Data Source
+
+The dataset used in this project comes from Kaggle:
+
+Bike Store Sample Database  
+https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+
+This dataset contains transactional retail data including customers, orders, products, stores, and inventory.
 
 ---
 
